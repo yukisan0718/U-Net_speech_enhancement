@@ -1,0 +1,1 @@
+Please put clear speech (ground truth) files in this directory. The files must be ".wav" format.
